@@ -1,4 +1,6 @@
 # Heap Veri Yapısı Uygulaması
+
+ Heap veri yapısına eleman ekleme, eleman silme ve heap veri yapısını kullanarak bir diziyi sıralama işlemleri için algoritma ve c++ uygulaması
  
 ## Metotlar
 
